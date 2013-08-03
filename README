@@ -1,0 +1,12 @@
+
+几个随机处理字符串的工具函数。
+
+derange : 随机打乱source中字符的排列。
+reqin : 用charset中的字符随机生成指定长度的字符串。
+
+用法：
+str1 = derange('abcdef')
+str2 = repin('abcdef', 32)
+
+
+
